@@ -56,3 +56,10 @@ layout: default
 　　**省钱大招：**
 
 1.  **货比三家：** 机场柜台挨个问！套餐名称花哨，核心看 **流量多少、有效期多长、是否含通话**。Digicel的“Island Hopper”包和Chippie的“Tourist Max”是2025年新宠
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Saint Martin eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/saint-martin-data-plans)
